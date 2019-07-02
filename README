@@ -1,11 +1,11 @@
 To install:
 
-Extract the zip file to an easy to a location that is easy to navigate to
+Download all files to a new folder
 Open Chrome
 In the address bar, navigate to chrome://extensions
 Enable Developer mode
 Click 'Load unpacked'
-Select the extracted folder from step 1
+Select the folder from step 1
 Done!
 
 Now your Salesforce queues will automatically refresh every 30 seconds, permanently.
