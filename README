@@ -1,11 +1,23 @@
-To install:
+This Google Chrome Extension automatically refreshes queues in Salesforce Classic every 30 seconds without reloading the page.
 
-Download all files to a new folder
-Open Chrome
-In the address bar, navigate to chrome://extensions
-Enable Developer mode
-Click 'Load unpacked'
-Select the folder from step 1
-Done!
+The script starts automatically, no need to toggle anything after install.
 
-Now your Salesforce queues will automatically refresh every 30 seconds, permanently.
+--- Installation ---
+
+1) Extract the archive to a folder where you would like the extension to be stored on your computer.
+
+2) Open Google Chrome
+
+3) Navigate to chrome://extensions
+
+4) Toggle "Developer mode"
+
+5) Click 'Load unpacked'
+
+6) Select the folder you created in step 1
+
+7) Visit a queue in Salesforce Classic and watch it refresh every 30 seconds until the end of time
+
+--- Support ---
+
+Leave a comment: https://github.com/jlfilip/Salesforce-Queue-Refresher
